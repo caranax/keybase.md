@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am caranax on github.
+  * I am caranax (https://keybase.io/caranax) on keybase.
+  * I have a public key ASBk3e-HQE5SGLajs5TABmgm7TeNI_3ETxMlJ9fdcPl0pwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012064ddef87404e5218b6a3b394c0066826ed378d23fdc44f132527d7dd70f974a70a",
+      "host": "keybase.io",
+      "kid": "012064ddef87404e5218b6a3b394c0066826ed378d23fdc44f132527d7dd70f974a70a",
+      "uid": "fba5ff09d9d7ce675f5162a23122e019",
+      "username": "caranax"
+    },
+    "merkle_root": {
+      "ctime": 1568162243,
+      "hash": "75ae4961669c9d93304df872e4a16bc644582f1c79f3fcc072f747a9102b482f70c6bd19cf3cc13257a9a2388a3328384a452cfd908b763ed690b1d69cff7320",
+      "hash_meta": "96434a7777d254b24c2b0198191e4ceeb5426e74d0f54009a8c634b7521eeebf",
+      "seqno": 6546823
+    },
+    "service": {
+      "entropy": "9DU7CTHhs3P7Z3RXTGKbs3C5",
+      "name": "github",
+      "username": "caranax"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568162383,
+  "expire_in": 504576000,
+  "prev": "cdb3863d53ae04c7713a09cc81dc0825677ec17f9f2ba49d0239b27156bf397a",
+  "seqno": 6,
+  "tag": "signature"
+}
+```
+
+with the key [ASBk3e-HQE5SGLajs5TABmgm7TeNI_3ETxMlJ9fdcPl0pwo](https://keybase.io/caranax), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZN3vh0BOUhi2o7OUwAZoJu03jSP9xE8TJSfX3XD5dKcKp3BheWxvYWTESpcCBsQgzbOGPVOuBMdxOgnMgdwIJWd+wX+fK6SdAjmycVa/OXrEIJBkIJ0pNRFVtmoUtiGTpO9cQ4G0iz7NKqJ+krL/1k0jAgHCo3NpZ8RAWsU3ZLyAH7lOg7n1/skE0MA60DkCzCHairWWCqXRzf/B17fj2LjibAN6WdpjAtIxXtH2/WmQwstZWboymkT9CqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGKgqqbceCmne7JjUe73P41Wc3uKIaTJUPBNlk9kxWSBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/caranax
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id caranax
+```
